@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides links to related resources for the course, organized
   by weekly topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,25 +13,25 @@ uid: ebc90154-94b1-b367-0cc0-beb95dc06cb6
 General
 -------
 
-{{% resource_link "9964bf3b-4db7-47c2-b33c-3954d465f8d2" "MIT Deepwater Archaeology Research Group" %}}
+[MIT Deepwater Archaeology Research Group](http://web.mit.edu/deeparch/www/home/index.html)
 
 Week 2
 ------
 
-{{% resource_link "35fcd578-528a-4b4f-bea8-7a6fda325222" "Marine and Nautical Archaeology: Method and Theory" %}}
+[Marine and Nautical Archaeology: Method and Theory](http://web.mit.edu/deeparch/www/home/links.html)
 
 Week 3
 ------
 
 ### Deep Ocean Robotics: Vehicles, Sensors and Modeling
 
-{{% resource_link "21d02bde-5108-4791-b7bc-6d856e748a64" "Photomosaics" %}}
+[Photomosaics](http://dsl.whoi.edu/DSL/hanu/)
 
-{{% resource_link "6475eae5-9d3a-4c78-bdd1-7df1914a9f43" "Sub-bottom Profiler" %}}
+[Sub-bottom Profiler](http://web.mit.edu/deeparch/www/research/subbottom.html)
 
-{{% resource_link "5005b0c6-82ce-46a7-94f2-216557da9e20" "Precision Navigation" %}}
+[Precision Navigation](http://web.mit.edu/deeparch/www/research/precisionnav.html)
 
-{{% resource_link "1a3a947c-ff9e-46cc-80ee-229467ed9d30" "Vehicles" %}}
+[Vehicles](http://www.whoi.edu/marops/vehicles/index.html)
 
 Expeditions:  
 Skerki 1997, Monitor 2001, Monitor 2003 (EXACT), Defence 2000 (SHARPS).
@@ -39,53 +41,53 @@ Week 4
 
 ### Seafaring and the Ancient Mediterranean, Overview
 
-{{% resource_link "b2261201-c255-4e72-a919-801c85181d06" "Skerki Bank 1997" %}}
+[Skerki Bank 1997](http://web.mit.edu/deeparch/www/expeditions/1997Skerki/1997Skerki.html)
 
-{{% resource_link "7e027d60-8e4a-4ad4-b0f5-b64906b252de" "Ashkelon 1999" %}}
+[Ashkelon 1999](http://web.mit.edu/deeparch/www/expeditions/1999Ashkelon/1999Ashkelon.html)
 
-{{% resource_link "4767c77e-3e61-416b-8b91-9119a7746933" "Black Sea 2000" %}}
+[Black Sea 2000](http://web.mit.edu/deeparch/www/expeditions/2000BlackSea/2000BlackSea.html)
 
-{{% resource_link "74c8f9a7-011d-454e-b246-196737af0270" "Ashkelon 2003" %}}
+[Ashkelon 2003](http://web.mit.edu/deeparch/www/expeditions/expeditions.html)
 
-{{% resource_link "74c8f9a7-011d-454e-b246-196737af0270" "Black Sea 2003" %}}
+[Black Sea 2003](http://web.mit.edu/deeparch/www/expeditions/expeditions.html)
 
 Week 5
 ------
 
 ### Autonomous Underwater Vehicles
 
-{{% resource_link "fb7e6c26-ccc7-4d83-95c4-811db0c5e21c" "AUVs" %}}
+[AUVs](http://web.mit.edu/deeparch/www/expeditions/2001Aegean/2001Aegean.html)
 
 Week 6
 ------
 
 ### Trade in the Bronze Age - Eastern Mediterranean
 
-{{% resource_link "3fc62fd7-0c2b-408d-9345-a3005305b13c" "INA Projects Web-site (click on \"Virtual Museum\")" %}}
+[INA Projects Web-site (click on "Virtual Museum")](http://nautarch.tamu.edu/)
 
 Week 7
 ------
 
 ### The Minoan World
 
-{{% resource_link "ebfba662-9ea6-43f7-b5ad-703b7fba8581" "The Prehistoric Archaeology of the Aegean" %}}
+[The Prehistoric Archaeology of the Aegean](http://www.dartmouth.edu/~prehistory/aegean/)
 
 Week 12
 -------
 
 ### Skerki Bank, Mediterranean Sea (Guest: Anna Marguerite McCann)
 
-{{% resource_link "b2261201-c255-4e72-a919-801c85181d06" "Skerki Bank" %}}
+[Skerki Bank](http://web.mit.edu/deeparch/www/expeditions/1997Skerki/1997Skerki.html)
 
 Week 13
 -------
 
 ### Cultural Resource Management of Submerged Sites: Ethics, Legislation and Conservation
 
-{{% resource_link "b3269938-9dee-42ee-a6cd-edafa492338c" "Submerged Resources Center (NPS/Dept Interior)" %}}
+[Submerged Resources Center (NPS/Dept Interior)](http://www.nps.gov/submerged/)
 
-{{% resource_link "c4565d86-58d4-4cad-9a0b-82557c3e8e9b" "\"Submerged Cultural Resources Study: USS Arizona\" by D. H. Lenihan (1989)" %}}
+["Submerged Cultural Resources Study: USS Arizona" by D. H. Lenihan (1989)](http://www.library.arizona.edu/exhibits/ussarizona/nps_survey/title.htm)
 
 ### Conservation and Management of Cult
 
-MIT WORLD video, "{{% resource_link "6707f48b-c276-42b8-ac98-f7e730ea1c68" "Civil War High Tech" %}}"
+MIT WORLD video, "[Civil War High Tech](http://techtv.mit.edu/videos/15874-civil-war-high-tech-excavating-the-hunley-and-monitor)"
